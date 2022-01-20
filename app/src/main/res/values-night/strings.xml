@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yourScore">Your Score: %1$d</string>
+    <string name="tapMe">Tap Me!</string>
+    <string name="aboutMenu">About</string>
+</resources>
